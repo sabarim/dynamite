@@ -1,0 +1,9 @@
+2023-04-12.19-02-09 cd dynamite/
+2023-04-12.19-02-11 ll
+2023-04-12.19-02-23 git checkout project_page
+2023-04-12.19-02-40 cp -r ../dyname/static/ .
+2023-04-12.19-02-48 cp -r ../dyname/index.html .
+2023-04-12.19-03-05 ll
+2023-04-12.19-03-10 ll static/
+2023-04-12.19-03-17 git add .
+2023-04-12.19-03-22 git status
